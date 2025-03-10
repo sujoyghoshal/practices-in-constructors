@@ -33,4 +33,10 @@ This repository contains four branches, each focusing on different Java concepts
 ## How to Switch Branches
 To checkout a specific branch, use the following command:
 ```sh
- git checkout <branch-name>
+ git checkout  main
+```sh
+ git checkout level-1
+```sh
+ git checkout instance-vs-class
+```sh
+ git checkout access-modifiers
